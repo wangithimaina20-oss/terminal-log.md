@@ -11,5 +11,5 @@ This project demonstrates Git version control and command line knowledge.
 ## Branching
 Feature branch created and merged.
 
-## Author
-Your Name
+## Author 
+sharon wangithi 
